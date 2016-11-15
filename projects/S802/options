@@ -33,7 +33,7 @@
   # default:  default mainline kernel
     LINUX="custom"
     KERNEL_VERSION="cff7c42"
-    KERNEL_URL="https://github.com/drieschel/linux/archive/$KERNEL_VERSION.tar.gz"
+    KERNEL_URL="https://github.com/k-sh-i/linux/$KERNEL_VERSION.tar.gz"
 
 ################################################################################
 # setup build defaults
